@@ -1,0 +1,2 @@
+choose an article to buy
+print a pdf invoice
